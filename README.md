@@ -3,6 +3,8 @@ Data Science assignment to do data collection. Measured the time and direction R
 
 To run this program to do your own collection, run footbridge_data_collection.py and press 1 and then enter to measure the time, and east. Press 2 and enter to measure the time, and west.
 
+This data is owned by RPI
+
 #Name of data collector: Brandon Thorne
 #Location: RPI Footbridge over 15th street. West side. 
 #Latitude: 42.729592
